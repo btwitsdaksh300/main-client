@@ -1,0 +1,38 @@
+/* Translator page styles */
+.translator-container {
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .translator-box {
+    width: 100%;
+    max-width: 600px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    background: #fff;
+    padding: 20px;
+  }
+  
+  .translator-box h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .translator-input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-sizing: border-box;
+    font-size: 16px;
+    margin-bottom: 15px;
+  }
+  
+  .translator-result {
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background: #f9f9f9;
+  }
+  

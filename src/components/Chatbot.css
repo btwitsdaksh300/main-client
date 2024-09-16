@@ -1,0 +1,36 @@
+.chatbot-container {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+  }
+  
+  .chatbot-box {
+    width: 100%;
+    max-width: 800px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    background: #fff;
+    padding: 20px;
+  }
+  
+  .chatbot-header {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .fruit-card {
+    background: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1);
+    margin-bottom: 15px;
+    padding: 15px;
+  }
+  
+  .fruit-card h4 {
+    margin-bottom: 10px;
+  }
+  
+  .fruit-card p {
+    color: #555;
+  }
+  
